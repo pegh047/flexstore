@@ -1,0 +1,94 @@
+body{
+     background-image: linear-gradient(90deg,#0d1117);
+    box-sizing: border-box;
+    font-family: 'Inter', 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    margin-top: 100px;
+    text-align: center;
+    
+}
+.auth-container{
+    background-color: #171b21;
+    text-align: center;
+    padding: 9px;
+    width: 450px;
+    height: 510px;
+    border-radius: 10px;
+    margin: 0 auto;
+    border: 0.3px solid rgba(255, 255, 255, 0.182);
+    
+
+}
+.giris{
+    color: #55A4FF;
+    font-size: 30px;
+}
+p{
+    color: #8c9ba5;
+}
+#AD{
+    background-color: #0A0F18;
+     border-radius: 5px;
+    height: 5px;
+    width: 250px;
+    border: none;
+    padding: 20px;
+    color: white;
+    border: 0.3px solid rgba(255, 255, 255, 0.374);
+    margin: 10px;
+}
+#Soyad{
+    background-color: #0A0F18;
+    border-radius: 5px;
+    height: 5px;
+    width: 250px;
+    border: none;
+    padding: 20px;
+    margin-top: 10px;
+    color: white;
+    border: 0.3px solid rgba(255, 255, 255, 0.374);
+    margin: 10px;
+}
+#Email{
+    background-color: #0A0F18;
+    border-radius: 5px;
+    height: 5px;
+    width: 250px;
+    border: none;
+    padding: 20px;
+    margin-top: 10px;
+    color: white;
+    border: 0.3px solid rgba(255, 255, 255, 0.374);
+}
+#Şifrə{
+    background-color: #0A0F18;
+    border-radius: 5px;
+    height: 5px;
+    width: 250px;
+    border: none;
+    padding: 20px;
+    margin-top: 10px;
+    color: white;
+    border: 0.3px solid rgba(255, 255, 255, 0.374);
+    margin: 20px;
+}
+button{
+    background-color: #65adff;
+    width: 290px;
+    height: 40px;
+    padding: 7px;
+    border-radius: 6px;
+    transition: transform 0.5s ease-in-out,background-color 0.5s ease-in-out,color 0.5s ease-in-out;
+    
+}
+button:hover{
+    transform: scale(1.07);
+    transition: 0.5s;
+}
+a{
+    color: white;
+    margin: 5px;
+    text-decoration: none;
+}
+.auth-container h3 {
+    margin-bottom: 8px; 
+}
